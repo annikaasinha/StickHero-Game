@@ -1,1 +1,2 @@
 # StickHero-Game
+This repository contains a Stick Hero Game implemented in JavaFX, leveraging Scene Builder for intuitive UI design. The game emulates core mechanics, embracing Object Oriented Programming principles to enhance modularity and maintainability. Multithreading is employed to ensure smooth gameplay, and the addition of sound effects and visually appealing graphics enhances the overall user experience.
